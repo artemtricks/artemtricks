@@ -22,5 +22,5 @@
 ## Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemtricks&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artemtricks&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=artemtricks&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artemtricks&theme=default)
