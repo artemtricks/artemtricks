@@ -5,7 +5,7 @@
 
 ## About me
 
--  I’m currently learning JS, HTML, CSS
+-  I’m currently learning JS, React
 -  I’m interested in development, design and technology
 -  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Artem_Kabanov-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/artem-kabanov-b53a28217/)
 
