@@ -5,7 +5,7 @@
 
 ## About me
 
--  I’m currently learning JS, React
+-  I’m currently learning TS, React
 -  I’m interested in development, design and technology
 -  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Artem_Kabanov-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/artem-kabanov-b53a28217/)
 
@@ -16,6 +16,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br><br>
 
 
