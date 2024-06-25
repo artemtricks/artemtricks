@@ -9,18 +9,18 @@
 -  I’m interested in development, design and technology
 -  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Artem_Kabanov-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/artem-kabanov-b53a28217/)
 
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" style="display:inline-block;" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg" style="display:inline-block;" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nestjs.svg" style="display:inline-block;" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/reactquery.svg" style="display:inline-block;" />
+<div style="display: flex; flex-direction: row;">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg"  />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg"  />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nestjs.svg"  />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/reactquery.svg"  />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/reacthookform.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/redux.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/vite.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postgresql.svg" />
-
+</div>
 
 
 <br><br>
