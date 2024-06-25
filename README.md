@@ -14,20 +14,9 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/typescript.svg" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/typescript.svg" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/typescript.svg" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/typescript.svg" />
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v12/icons/typescript.svg" />
 
 <br><br>
 
