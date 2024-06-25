@@ -7,7 +7,7 @@
 
 - TS, React
 -  I’m interested in development, design and technology
--  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Artem_Kabanov-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/artem-kabanov-b53a28217/) <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/telegram.svg"  />
+-  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Artem_Kabanov-white?style=flat&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/artem-kabanov-b53a28217/) <a href="https://t.me/artemtricks"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/telegram.svg"  /></a>
 
 
 <div style="display: flex; flex-direction: row;">
