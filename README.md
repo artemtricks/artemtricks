@@ -83,13 +83,39 @@ const artem = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=artemtricks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemtricks\&theme=default)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artemtricks&layout=compact&langs_count=8&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artemtricks\&theme=default)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=artemtricks)
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=artemtricks)
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=artemtricks\&theme=default)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![](https://activity-graph.herokuapp.com/graph?username=artemtricks\&theme=github-light)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=artemtricks\&theme=flat\&no-frame=true\&row=1)
 
 </div>
 
