@@ -83,15 +83,17 @@ const artem = {
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=artemtricks\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=artemtricks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artemtricks\&layout=compact\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artemtricks&layout=compact&langs_count=8&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=artemtricks&theme=tokyonight)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=artemtricks&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff)
 
 </div>
 
 ---
-
-## 🔥 Contribution St
 
 ## 🎯 Current Focus
 
