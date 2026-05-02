@@ -10,7 +10,7 @@
 -  How to reach me: &nbsp; <a href="https://t.me/artemtricks"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/telegram.svg"  /></a> <a href="https://www.linkedin.com/in/artem-kabanov-b53a28217/"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/linkedin.svg"  /></a>
 
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg"  />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg"  />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nestjs.svg"  />
