@@ -87,9 +87,9 @@ const artem = {
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=artemtricks&layout=compact&langs_count=8&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=artemtricks&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=artemtricks)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=artemtricks&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff)
+![](https://github-readme-activity-graph.vercel.app/graph?username=artemtricks)
 
 </div>
 
