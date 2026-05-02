@@ -101,26 +101,6 @@ const artem = {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![](https://activity-graph.herokuapp.com/graph?username=artemtricks\&theme=github-light)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=artemtricks\&theme=flat\&no-frame=true\&row=1)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 * Advanced React patterns
