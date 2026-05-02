@@ -1,34 +1,116 @@
-<br>
-<h1 align="center">Hi👋, I’m Artem <br><br></h1>
-<p align="center"> Welcome to my GitHub profile! </p>
-<br>
+<div align="center">
 
-## About me
+# Hi 👋, I'm Artem
 
-- TS, React
--  I’m interested in development, design and technology
--  How to reach me: &nbsp; <a href="https://t.me/artemtricks"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/telegram.svg"  /></a> <a href="https://www.linkedin.com/in/artem-kabanov-b53a28217/"><img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/linkedin.svg"  /></a>
+### Frontend Developer • TypeScript Enthusiast • UI/UX Lover
 
+<p>
+Building modern web applications with a focus on performance, scalability, and user experience.
+</p>
 
-<div style="display: flex;>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/react.svg"  />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typescript.svg"  />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nestjs.svg"  />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/reactquery.svg"  />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/reacthookform.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/redux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/vite.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/nextdotjs.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mongodb.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/postgresql.svg" />
+<p>
+  <a href="https://t.me/artemtricks">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/artem-kabanov-b53a28217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=artemtricks&style=for-the-badge" />
+
 </div>
 
+---
 
-<br><br>
+## 🚀 About Me
 
+* 💻 Frontend developer focused on **TypeScript ecosystem**
+* ⚛️ Building interfaces with **React / Next.js**
+* 🎨 Passionate about **clean UI, design systems, and UX**
+* 🛠 Love creating scalable architecture and reusable components
+* 🌱 Currently improving in **backend architecture, Python ecosystem & fullstack development**
+* 📍 Open to collaboration and interesting projects
 
-## Statistics
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemtricks&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=artemtricks&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artemtricks&theme=default)
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,fastapi" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
+
+---
+
+## 📌 Core Expertise
+
+```ts
+const artem = {
+  code: ['TypeScript', 'JavaScript'],
+  frontend: ['React', 'Next.js', 'Redux Toolkit'],
+  backend: ['NestJS', 'Node.js', 'Python', 'FastAPI'],
+  stateManagement: ['Redux', 'TanStack Query'],
+  forms: ['React Hook Form'],
+  databases: ['MongoDB', 'PostgreSQL'],
+  tools: ['Git', 'Figma', 'Vite'],
+  interests: ['Web Development', 'UI/UX', 'System Design']
+}
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=artemtricks\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artemtricks\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## 🔥 Contribution St
+
+## 🎯 Current Focus
+
+* Advanced React patterns
+* Performance optimization
+* Scalable frontend architecture
+* Fullstack applications with Next.js + NestJS / FastAPI
+
+---
+
+## 🤝 Connect With Me
+
+📬 Telegram: **@artemtricks**
+💼 LinkedIn: **Artem Kabanov**
+
+---
+
+<div align="center">
+
+⭐️ *Always open for interesting ideas and collaborations*
+
+</div>
