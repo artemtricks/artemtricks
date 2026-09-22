@@ -83,8 +83,6 @@ const artem = {
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artemtricks\&theme=default)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artemtricks\&theme=default)
 
 </div>
