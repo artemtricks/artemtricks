@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Artem
 
-### Frontend Developer • TypeScript Enthusiast • UI/UX Lover
+### FullStack Developer • Python / TypeScript 
 
 <p>
 Building modern web applications with a focus on performance, scalability, and user experience.
@@ -23,18 +23,29 @@ Building modern web applications with a focus on performance, scalability, and u
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-* 💻 Frontend developer focused on **TypeScript ecosystem**
-* ⚛️ Building interfaces with **React / Next.js**
-* 🎨 Passionate about **clean UI, design systems, and UX**
-* 🛠 Love creating scalable architecture and reusable components
-* 🌱 Currently improving in **backend architecture, Python ecosystem & fullstack development**
-* 📍 Open to collaboration and interesting projects
+💻 Backend-oriented developer focused on Python & TypeScript ecosystem
+⚙️ Building backend applications and REST APIs with FastAPI, NestJS & Node.js
+🗄️ Working with PostgreSQL, MongoDB & Redis
+📨 Building asynchronous systems using RabbitMQ & Apache Kafka
+🏗️ Interested in System Design, Microservices & Distributed Systems
+🐳 Containerizing applications with Docker & Docker Compose
+🧪 Writing tests with Pytest & Jest
+🔧 Experienced with SQLAlchemy, Prisma, CI/CD & Nginx
+⚛️ Also working with React & Next.js
+🌱 Constantly learning and improving my software engineering skills
+📍 Open to collaboration and interesting projects
 
 ---
 
 ## 🛠 Tech Stack
+
+ ### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,fastapi" />
+</p>
 
 ### Frontend
 
@@ -42,11 +53,6 @@ Building modern web applications with a focus on performance, scalability, and u
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,vite" />
 </p>
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,fastapi" />
-</p>
 
 ### Database
 
@@ -66,15 +72,19 @@ Building modern web applications with a focus on performance, scalability, and u
 
 ```ts
 const artem = {
-  code: ['TypeScript', 'JavaScript'],
-  frontend: ['React', 'Next.js', 'Redux Toolkit'],
-  backend: ['NestJS', 'Node.js', 'Python', 'FastAPI'],
-  stateManagement: ['Redux', 'TanStack Query'],
-  forms: ['React Hook Form'],
-  databases: ['MongoDB', 'PostgreSQL'],
-  tools: ['Git', 'Figma', 'Vite'],
-  interests: ['Web Development', 'UI/UX', 'System Design']
-}
+  'code': ['Python', 'TypeScript', 'JavaScript'],
+  'backend': ['Python', 'FastAPI', 'NestJS', 'Node.js', 'REST API', 'Microservices'],
+  'frontend': ['React', 'Next.js', 'Redux Toolkit'],
+  'stateManagement': ['Redux', 'TanStack Query'],
+  'forms': ['React Hook Form'],
+  'databases': ['PostgreSQL', 'MongoDB', 'Redis'],
+  'messageBrokers': ['RabbitMQ', 'Apache Kafka'],
+  'orm': 'SQLAlchemy', 'Prisma'],
+  'testing': ['Pytest', 'Jest'],
+  'devops': ['Docker', 'Docker Compose', 'CI/CD', 'Nginx'],
+  'tools': ['Git', 'Figma', 'Vite'],
+  'interests': ['Backend Development', 'System Design', 'Distributed Systems', 'Microservices', 'Software Architecture']
+};
 ```
 
 ---
