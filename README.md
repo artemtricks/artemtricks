@@ -5,7 +5,7 @@
 ### FullStack Developer • Python / TypeScript 
 
 <p>
-Building modern web applications with a focus on performance, scalability, and user experience.
+Building scalable backend systems and high-performance applications with a focus on clean architecture, distributed systems, and reliability.
 </p>
 
 <p>
@@ -44,7 +44,7 @@ Building modern web applications with a focus on performance, scalability, and u
  ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nestjs,nodejs" />
 </p>
 
 ### Frontend
@@ -106,15 +106,6 @@ const artem = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artemtricks\&theme=default)
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-* Advanced React patterns
-* Performance optimization
-* Scalable frontend architecture
-* Fullstack applications with Next.js + NestJS / FastAPI
 
 ---
 
